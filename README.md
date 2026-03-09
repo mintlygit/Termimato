@@ -63,13 +63,14 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
-
+```
 
 🗺️ Совместимость
 ✅ Linux (GNOME Terminal, Konsole, xterm и др.)
 ✅ macOS (iTerm2, Terminal.app)
 ✅ Windows (Windows Terminal, PowerShell Core, CMD)
 ✅ Android (Termux)
+
 🤝 Вклад в развитие (Contributing)
 Мы рады любым пул-реквестам! Если у вас есть идеи для новых эффектов или улучшений:
 Форкните репозиторий.
@@ -77,6 +78,7 @@ if __name__ == "__main__":
 Закоммитьте изменения (git commit -m 'Add amazing glitch effect').
 Сделайте Push (git push origin feature/NewEffect).
 Откройте Pull Request.
+
 📄 Лицензия
 Этот проект распространяется под лицензией MIT. Подробнее см. в файле LICENSE.
 <div align="center">
