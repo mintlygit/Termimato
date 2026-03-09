@@ -4,10 +4,10 @@
 
 **Асинхронная магия для вашего терминала**
 
-[![PyPI Version](https://img.shields.io/pypi/v/termimato?style=flat-square&color=tomato&logo=pypi&logoColor=white)](https://pypi.org/project/termimato/)
-[![Python Versions](https://img.shields.io/pypi/pyversions/termimato?style=flat-square&logo=python&logoColor=white)](https://pypi.org/project/termimato/)
-[![License](https://img.shields.io/pypi/l/termimato?style=flat-square&color=blue)](LICENSE)
-[![Downloads](https://img.shields.io/pypi/dm/termimato?style=flat-square&color=forestgreen)](https://pypi.org/project/termimato/)
+[![PyPI Version](https://img.shields.io/pypi/v/termimato?label=pypi%20v0.1.0&style=flat-square&color=tomato&logo=pypi&logoColor=white)](https://pypi.org/project/termimato/)
+[![Python Versions](https://img.shields.io/pypi/pyversions/termimato?label=python%203.8%2B&style=flat-square&logo=python&logoColor=white)](https://pypi.org/project/termimato/)
+[![License](https://img.shields.io/pypi/l/termimato?label=license%20MIT&style=flat-square&color=blue)](LICENSE)
+[![Downloads](https://img.shields.io/pypi/dm/termimato?label=downloads&style=flat-square&color=forestgreen)](https://pypi.org/project/termimato/)
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=mintlygit.termimato)
 
 <p align="center">
@@ -42,6 +42,10 @@
 
 ```bash
 pip install termimato
+```
+
+*⚡ Быстрый старт*
+```
 import asyncio
 from termimato import Termimato, Colors, type_writer
 
@@ -63,24 +67,25 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
+
 ```
 
-🗺️ Совместимость
-✅ Linux (GNOME Terminal, Konsole, xterm и др.)
-✅ macOS (iTerm2, Terminal.app)
-✅ Windows (Windows Terminal, PowerShell Core, CMD)
-✅ Android (Termux)
+**🗺️ Совместимость**
+*✅ Linux (GNOME Terminal, Konsole, xterm и др.)*
+*✅ macOS (iTerm2, Terminal.app)*
+*✅ Windows (Windows Terminal, PowerShell Core, CMD)*
+*✅ Android (Termux)*
 
 🤝 Вклад в развитие (Contributing)
-Мы рады любым пул-реквестам! Если у вас есть идеи для новых эффектов или улучшений:
+Мы рады любым пул-реквестам! Если у вас есть идеи:
 Форкните репозиторий.
-Создайте ветку (git checkout -b feature/NewEffect).
+- Создайте ветку (git checkout -b feature/NewEffect).
 Закоммитьте изменения (git commit -m 'Add amazing glitch effect').
-Сделайте Push (git push origin feature/NewEffect).
-Откройте Pull Request.
+- Сделайте Push (git push origin feature/NewEffect).
+- Откройте Pull Request.
 
-📄 Лицензия
+*📄 Лицензия*
 Этот проект распространяется под лицензией MIT. Подробнее см. в файле LICENSE.
 <div align="center">
-Created with ❤️ by <a href="https://www.google.com/search?q=https://github.com/%D0%92%D0%90%D0%A8_%D0%9D%D0%98%D0%9A%D0%9D%D0%95%D0%99%D0%9C">mintlygit</a>
+Created with ❤️ by <a href="https://www.google.com/search?q=https://github.com/mintlygit">mintlygit</a>
 </div>
