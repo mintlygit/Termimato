@@ -4,10 +4,19 @@
 
 **Асинхронная магия для вашего терминала**
 
-[![PyPI Version](https://img.shields.io/pypi/v/termimato?label=pypi%20v0.1.0&style=flat-square&color=tomato&logo=pypi&logoColor=white)](https://pypi.org/project/termimato/)
-[![Python Versions](https://img.shields.io/pypi/pyversions/termimato?label=python%203.8%2B&style=flat-square&logo=python&logoColor=white)](https://pypi.org/project/termimato/)
-[![License](https://img.shields.io/pypi/l/termimato?label=license%20MIT&style=flat-square&color=blue)](LICENSE)
-[![Downloads](https://img.shields.io/pypi/dm/termimato?label=downloads&style=flat-square&color=forestgreen)](https://pypi.org/project/termimato/)
+<div align="center">
+
+# 🍅 Termimato
+
+**Асинхронная магия для вашего терминала**
+
+[![PyPI Version](https://img.shields.io/pypi/v/termimato?style=flat-square&color=tomato&logo=pypi&logoColor=white)](https://pypi.org/project/termimato/)
+[![Python Versions](https://img.shields.io/pypi/pyversions/termimato?style=flat-square&logo=python&logoColor=white)](https://pypi.org/project/termimato/)
+[![License](https://img.shields.io/pypi/l/termimato?style=flat-square&color=blue)](LICENSE)
+[![Downloads](https://img.shields.io/pypi/dm/termimato?style=flat-square&color=forestgreen)](https://pypi.org/project/termimato/)
+
+</div>
+
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=mintlygit.termimato)
 
 <p align="center">
