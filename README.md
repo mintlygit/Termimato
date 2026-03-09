@@ -6,10 +6,6 @@
 
 <div align="center">
 
-# 🍅 Termimato
-
-**Асинхронная магия для вашего терминала**
-
 [![PyPI Version](https://img.shields.io/pypi/v/termimato?style=flat-square&color=tomato&logo=pypi&logoColor=white)](https://pypi.org/project/termimato/)
 [![Python Versions](https://img.shields.io/pypi/pyversions/termimato?style=flat-square&logo=python&logoColor=white)](https://pypi.org/project/termimato/)
 [![License](https://img.shields.io/pypi/l/termimato?style=flat-square&color=blue)](LICENSE)
